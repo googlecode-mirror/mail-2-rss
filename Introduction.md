@@ -1,0 +1,7 @@
+# What does Mail 2 RSS do? #
+
+In it's simplest terms, Mail 2 RSS is a procedural script which facilitates the creation of automated RSS feeds, based upon emails sent to a specific email address
+
+# Why would I need to use it? #
+
+If you have to automate the creation of RSS feeds in your organisation/office, and dont want to have to intervene - you can use this program. It also encapsulates more challenging aspects of PHP functions such as PHP/IMAP polling from an exchange account.
